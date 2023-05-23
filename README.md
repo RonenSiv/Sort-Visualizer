@@ -1,4 +1,4 @@
-# Sort Algorithms Visualizer
+# Sorting Algorithms Visualizer
 
 Welcome to the Sorting Visualizer README! This project showcases a Java-based sorting visualizer that helps understand and visualize various sorting algorithms.
 ![Example Sorted](https://imgur.com/oY3wgYG.png)
